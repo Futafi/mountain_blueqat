@@ -6,4 +6,4 @@ jupyter
 autopep8
 gym[MountainCar-v0]
 matplotlib
-vcopt
+pandas
